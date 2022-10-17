@@ -5,6 +5,13 @@ Flashthon Version1 For Send Flash Bitcoin Sending Free Tools And Generator
 
 First Software For Flashing Bitcoin and Send , Generator BTC With Flashthon Version 1 For Windows .
 Send Unlimited BTC Per day free whithout create license .
+---
+
+`Screen From Main page:`
+
+![flashthon v1 btc flash tools](https://raw.githubusercontent.com/CryptoAttacker/Flashthon_v1/main/media/001.png 'flashthon v1 btc flash tools')
+
+---
 
 - Creating and connecting a private Bitcoin wallet and paying network fees and creating blocks
 
