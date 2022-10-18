@@ -76,3 +76,25 @@ After entering the address and pressing the check button, wait for a few seconds
 
 ![](https://raw.githubusercontent.com/CryptoAttacker/Flashthon_v1/main/media/blockonline.png)  ![](https://raw.githubusercontent.com/CryptoAttacker/Flashthon_v1/main/media/onlineblockcheck.png 'After press update button')
 
+- Now, in the next step, in the transaction settings section, you enter whether you want the transaction to be sent in several pieces or all at once, and you can randomly set a price for each transaction, and at the end of this section, you can set the time at which your transaction will be sent. This is recommended on Windows servers and remote desktop. that their access to the Internet is not interrupted and they have high stability.
+
+![](https://raw.githubusercontent.com/CryptoAttacker/Flashthon_v1/main/media/vconfig.png)
+
+
+- The section related to the sending settings and the connection type, different types and the best ones are provided for the user, and it is suggested to use the online proxy option. To establish the most up-to-date and secure communication. But also see the save and load button with the killer option that by pressing the save button, all the sent settings that you have made from the beginning will be saved in a config file after the transaction is successful. And the load button is for uploading the settings file. The killer button, as its name suggests, deletes all entered information and settings.
+
+![](https://raw.githubusercontent.com/CryptoAttacker/Flashthon_v1/main/media/connect.png)
+
+- At the end, if you have done all the steps correctly and the balance of your **[P2PKH]** wallet is more than the fee displayed in the software, the send button is now active and you can create the transaction. Otherwise, you will get an out of stock error. Don't forget that the last option is one of the most important related parts, opening that transaction will get your confirmations, otherwise no successful transaction will be registered for you.(Auto Confirmation)
+
+![](https://raw.githubusercontent.com/CryptoAttacker/Flashthon_v1/main/media/txidre.png)
+
+
+⚠️ THIS Software FLASHTHON V1 - FULL Free 
+
+Programmer Telegram Channel : https://CryptoAttacker.t.me
+
+Programmer Telegram ID : https://MrPyMmdrza.t.me
+
+Website : https://mmdrza,com
+
